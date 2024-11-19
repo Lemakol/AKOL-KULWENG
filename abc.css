@@ -1,0 +1,14 @@
+h1{
+	border:2px dotted;
+	margin: 40px;
+	padding-bottom: 20px;
+	border-color:royalblue;
+	height: auto;
+	width: auto;
+	background-color:lightgoldenrodyellow;
+	font-family:bell mt;
+	color:maroon;
+}
+*{
+	background-color:khaki;
+}
